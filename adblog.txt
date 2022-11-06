@@ -1,0 +1,261 @@
+--------- beginning of main
+I/ServiceManager(29656): Waiting for service AtCmdFwd...
+I/ServiceManager(29656): Waiting for service AtCmdFwd...
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+I/ServiceManager(29656): Waiting for service AtCmdFwd...
+I/SzztSystemSdkManager( 3142): disable google play store runnable runing
+V/WLAN_PSA(  282): NL MSG, len[4036], NL type[0x1C] WNI type[0x5900] len[44047]
+V/WLAN_PSA(  282): NL MSG, PID: 282
+I/ServiceManager(29656): Waiting for service AtCmdFwd...
+W/Atfwd_Sendcmd(29656): AtCmdFwd service not published, waiting... retryCnt : 4
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+I/SzztSystemSdkManager( 3142): disable google play store runnable runing
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+V/WLAN_PSA(  282): NL MSG, len[3995], NL type[0x1C] WNI type[0x5900] len[33551]
+V/WLAN_PSA(  282): NL MSG, PID: 282
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+I/SzztSystemSdkManager( 3142): disable google play store runnable runing
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+V/WLAN_PSA(  282): NL MSG, len[4012], NL type[0x1C] WNI type[0x5900] len[37903]
+V/WLAN_PSA(  282): NL MSG, PID: 282
+I/SzztSystemSdkManager( 3142): disable google play store runnable runing
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+I/SzztSystemSdkManager( 3142): disable google play store runnable runing
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+V/WLAN_PSA(  282): NL MSG, len[4019], NL type[0x1C] WNI type[0x5900] len[39695]
+V/WLAN_PSA(  282): NL MSG, PID: 282
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+E/CPosSmartCardReaderImpl(29746): nSlotIndex-->0 queryMaxSlotNumber-->6
+E/SZZTSmartCardReader-JNI( 2691): SZZTSmartCardReader::close
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+D/audio_hw_primary(  272): start_output_stream: enter: stream(0xb73eebb0)usecase(1: low-latency-playback) devices(0x2)
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+D/audio_hw_primary(  272): select_devices: out_snd_device(2: speaker) in_snd_device(0: )
+D/hardware_info(  272): hw_info_append_hw_type : device_name = speaker
+I/soundtrigger(  272): audio_extn_sound_trigger_update_device_status: device 0x2 of type 0 for Event 1, with Raise=0
+W/audio_hw_utils(  272): audio_extn_utils_update_stream_app_type_cfg: App type could not be selected. Falling back to default
+I/audio_hw_primary(  272): select_devices Selected apptype: 69936
+D/soundtrigger(  272): audio_extn_sound_trigger_update_stream_status: uc_id 1 of type 0 for Event 3, with Raise=0
+D/ACDB-LOADER(  272): ACDB -> send_audio_cal, acdb_id = 14, path =  0
+D/ACDB-LOADER(  272): ACDB -> send_asm_topology
+D/ACDB-LOADER(  272): ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TOPOLOGY_ID
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+D/ACDB-LOADER(  272): ACDB -> send_adm_topology
+D/ACDB-LOADER(  272): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TOPOLOGY_ID
+D/ACDB-LOADER(  272): ACDB -> send_audtable
+D/ACDB-LOADER(  272): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+D/ACDB-LOADER(  272): ACDB -> AUDIO_SET_AUDPROC_CAL
+D/ACDB-LOADER(  272): ACDB -> send_audvoltable
+D/ACDB-LOADER(  272): ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_STEP_TABLE
+D/ACDB-LOADER(  272): ACDB -> AUDIO_SET_AUDPROC_VOL_CAL
+D/ACDB-LOADER(  272): ACDB -> send_afe_cal
+D/ACDB-LOADER(  272): ACDB -> ACDB_CMD_GET_AFE_COMMON_TABLE
+D/ACDB-LOADER(  272): ACDB -> AUDIO_SET_AFE_CAL
+D/ACDB-LOADER(  272): ACDB -> send_hw_delay : acdb_id = 14 path = 0
+D/ACDB-LOADER(  272): ACDB -> ACDB_AVSYNC_INFO: ACDB_CMD_GET_DEVICE_PROPERTY
+I/audio_hw_utils(  272): audio_extn_utils_send_app_type_cfg app_type 69936, acdb_dev_id 14, sample_rate 48000
+D/audio_hw_primary(  272): select_devices: done
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+E/SZZTSmartCardReader-JNI( 2691): SZZTSmartCardReader::open return nSlotIndex-->0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+E/CPosSmartCardReaderImpl(29746): nSlotIndex-->0 queryMaxSlotNumber-->6
+E/SZZTSmartCardReader-JNI( 2691): jSmartCardNotifyMethod =0x7418c048
+E/SZZTSmartCardReader-JNI( 2691): m_pJavaSmartCardReaderObject =0x20056a
+W/SzztDebug( 2691): Call CPosSmartCardReaderWrapper-SERVER:Notify from JNI:cardIndex=0 events=0
+E/CPosSmartCardReaderImpl(29746): SmartCard Notify:0,0
+W/CPosSmartCardReaderImpl(29746): card 0 is inserted
+W/SzztDebug( 2691): Call CPosSmartCardReaderWrapper-SERVER:New mListener is null
+E/SZZTContactlessCardReader-JNI( 2691): open return-->0
+W/SzztDebug(29746): Call CPosSmartCardReaderImpl : mStatus-->4
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+E/CPosSmartCardReaderImpl(29746): client.slotInfo:com.szzt.sdk.device.card.SmartCardSlotInfo@6150b71
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][EMV_ResultForceOnline            - 1414] ERR(-124)
+W/EmvInterfaceImpl-SDK:(29746): mIEmvKernelListener-->com.szzt.sdk.device.impl.EmvInterfaceImpl$EmvKernelListener@ad87d56
+W/SzztDebug(29746): Call CPosSmartCardReaderImpl : mStatus-->2
+E/[emv core]( 2691): :emvsdk.c-1392 filename:emvterm0.par mode:rb
+E/[emv core]( 2691): :emvsdk.c-1392 destname:/data/local/config/app/emvterm0.par mode:rb
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 1 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 3 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_get_termparam         - 1286]
+E/[emv core]( 2691): :emvsdk.c-1422  r-terpara# : 9F660436800080
+E/[emv core]( 2691): :emvsdk.c-1392 filename:emvaids0.par mode:rb
+E/[emv core]( 2691): :emvsdk.c-1392 destname:/data/local/config/app/emvaids0.par mode:rb
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 1 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 3 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][emv_initialize                   - 542 ] flag:0
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][emv_initialize                   - 547 ] clr flag:0
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emv_initialize                   - 183 ] [KSEMVAPI_V0.5.20]
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1089] set term start 
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1090] len:7
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1091]
+E/[emv core]( 2691): :emvsdk.c-1422 para: 9F660436800080
+E/[emv core]( 2691): :emvsdk.c-1392 filename:emvterm0.par mode:rb+
+E/[emv core]( 2691): :emvsdk.c-1392 destname:/data/local/config/app/emvterm0.par mode:rb+
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 1 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 3 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1140]
+E/[emv core]( 2691): :emvsdk.c-1422 r-terpara: 9F660436800080
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1155] intlvnum:1 readtlvnum:1
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1166] intlvs[1].tagname:9f66 readtlvs[1].tagname:9f66
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1167]
+E/[emv core]( 2691): :emvsdk.c-1422 pvalue: 36800080
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1198] 2 readtlvnum:1
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1214] rdlen:7
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1215]
+E/[emv core]( 2691): :emvsdk.c-1422 rdbuf: 9F660436800080
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1221] rdlen:7
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1222]
+E/[emv core]( 2691): :emvsdk.c-1422 rdbuf: 9F660436800080
+E/[emv core]( 2691): :emvsdk.c-1392 filename:emvterm0.par mode:wb
+E/[emv core]( 2691): :emvsdk.c-1392 destname:/data/local/config/app/emvterm0.par mode:wb
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 1 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 3 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_set_termparam         - 1246] set term success
+E/[emv core]( 2691): :emvsdk.c-1392 filename:emvterm0.par mode:rb
+E/[emv core]( 2691): :emvsdk.c-1392 destname:/data/local/config/app/emvterm0.par mode:rb
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 1 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 3 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emvporting_get_termparam         - 1286]
+E/[emv core]( 2691): :emvsdk.c-1422  r-terpara# : 9F660436800080
+E/[emv core]( 2691): :emvsdk.c-1392 filename:emvaids0.par mode:rb
+E/[emv core]( 2691): :emvsdk.c-1392 destname:/data/local/config/app/emvaids0.par mode:rb
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 1 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 Sys_FOpen 3 ret:-1226134324 
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][emv_initialize                   - 542 ] flag:0
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][emv_initialize                   - 547 ] clr flag:0
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][EMV_SetCardType                  - 1035] eType:01 g_emv_cnxt->card_types_allowed:03
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][EMV_Process                      - 1100] Card Type[1]
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][EMV_Process                      - 1101] Trans Type[00]
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][EMV_Process                      - 1102] Trans Amount[0.01]
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][EMV_Process                      - 1103] Other Amount[0.00]
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][EMV_Process                      - 1114] Build candidate list--------------------------------------------------Start
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][emv_build_candidate_list         - 593 ] AS: Using the PSE.
+E/[emv core]( 2691): :emvsdk.c-1422 >>>>C_APDU>>>>: 00A404000E315041592E5359532E444446303100
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+E/WifiStateMachine(  789): WifiStateMachine CMD_START_SCAN source -2 txSuccessRate=0.14 rxSuccessRate=1.70 targetRoamBSSID=any RSSI=-36
+E/WifiStateMachine(  789): WifiStateMachine starting scan for "Nirajan"-WPA_PSK with 2412
+V/WLAN_PSA(  282): NL MSG, len[3979], NL type[0x1C] WNI type[0x5900] len[29455]
+V/WLAN_PSA(  282): NL MSG, PID: 282
+V/WLAN_PSA(  282): NL MSG, len[914], NL type[0x11] WNI type[0x5050] len[894]
+I/WifiHAL (  789): Poll result = 1
+V/WLAN_PSA(  282): NL MSG, PID: 282
+I/WifiHAL (  789): Found some events!!!
+D/WifiHAL (  789): no_seq_check received
+V/WLAN_PSA(  282): NL MSG, len[048], NL type[0x11] WNI type[0x5050] len[028]
+I/WifiHAL (  789): event received NL80211_CMD_TRIGGER_SCAN
+V/WLAN_PSA(  282): NL MSG, PID: 282
+I/WifiHAL (  789): event received NL80211_CMD_TRIGGER_SCAN, vendor_id = 0x0
+I/WifiHAL (  789): event ignored!!
+V/WLAN_PSA(  282): NL MSG, len[4039], NL type[0x1C] WNI type[0x5900] len[44815]
+V/WLAN_PSA(  282): NL MSG, PID: 282
+E/[emv core]( 2691): :emvsdk.c-1422 <<<<R_APDU<<<<: 6F15840E315041592E5359532E4444463031A503880101
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][icccommand                       - 104 ] <<<<SW1SW2<<<<[9000]
+E/[emv core]( 2691): :emvsdk.c-1422 >>>>C_APDU>>>>: 00B2010C00
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+I/WifiHAL (  789): Poll result = 1
+I/WifiHAL (  789): Found some events!!!
+D/WifiHAL (  789): no_seq_check received
+I/WifiHAL (  789): event received NL80211_CMD_NEW_SCAN_RESULTS
+I/WifiHAL (  789): event received NL80211_CMD_NEW_SCAN_RESULTS, vendor_id = 0x0
+I/WifiHAL (  789): event ignored!!
+V/WLAN_PSA(  282): NL MSG, len[914], NL type[0x11] WNI type[0x5050] len[894]
+V/WLAN_PSA(  282): NL MSG, PID: 282
+V/WLAN_PSA(  282): NL MSG, len[4042], NL type[0x1C] WNI type[0x5900] len[45583]
+V/WLAN_PSA(  282): NL MSG, PID: 282
+V/WLAN_PSA(  282): NL MSG, len[4056], NL type[0x1C] WNI type[0x5900] len[49167]
+V/WLAN_PSA(  282): NL MSG, PID: 282
+E/[emv core]( 2691): :emvsdk.c-1422 <<<<R_APDU<<<<: 701C611A4F08A000000333010102500B5549434320435245444954870101
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][icccommand                       - 104 ] <<<<SW1SW2<<<<[9000]
+E/[emv core]( 2691): :emvsdk.c-1422 caid: A000000333010102
+E/[emv core]( 2691): :emvsdk.c-1422 taid: A000000333010101
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][app_cmp                          - 73  ] asi = 0
+E/[emv core]( 2691): :emvsdk.c-1422 caid: A000000333010102
+E/[emv core]( 2691): :emvsdk.c-1422 taid: A000000333010102
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][app_cmp                          - 73  ] asi = 0
+E/[emv core]( 2691): :emvsdk.c-1422 >>>>C_APDU>>>>: 00B2020C00
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+E/[emv core]( 2691): :emvsdk.c-1422 <<<<R_APDU<<<<: 
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][icccommand                       - 104 ] <<<<SW1SW2<<<<[6A83]
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][emv_build_candidate_list         - 649 ] NXT(2)
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][EMV_Process                      - 1293] @@@@STATUS[2]@@@@
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emv_process                      - 328 ] ret = 2
+E/SZZTEmvKernel-JNI( 2691): emvCallback
+W/SzztDebug( 2691): Call SZZTEmvKernelWrapper-SERVER:emvCallback,status=1 retcode=2
+E/EmvInterfaceImpl-SDK:(29746): emvCallback
+D/SzztDebug(29746): Call EmvInterfaceImpl-SDK: : postEmvProcessEvent status=1 code=2
+E/EmvTest (29746): status:1 retcode:2
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][EMV_Process                      - 1121] App select------------------------------------------------------Start
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][emv_app_sel_init                 - 874 ] 1 1 0
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][appdata_save                     - 59  ] tag = [9B]
+E/[emv core]( 2691): :emvsdk.c-1422 value: 0000
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][appdata_save                     - 59  ] tag = [95]
+E/[emv core]( 2691): :emvsdk.c-1422 value: 0000000000
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][appdata_find                     - 162 ] tag = [9B]
+E/[emv core]( 2691): :emvsdk.c-1422 value: 0000
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][appdata_find                     - 162 ] tag = [95]
+E/[emv core]( 2691): :emvsdk.c-1422 value: 0000000000
+E/[emv core]( 2691): :emvsdk.c-1422 >>>>C_APDU>>>>: 00A4040008A00000033301010200
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Client call server updateSecureModelStatus method
+E/SzztSystemSdkManager( 3142): updateSecureModelStatus : update Status: type = 4, status = 1
+W/ztsecuremodelcallback( 2691): Server exepction code: 0
+W/ztsecuremodelcallback( 2691): Client updateSecureModelStatus: result = 0
+E/[emv core]( 2691): :emvsdk.c-1422 <<<<R_APDU<<<<: 
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][icccommand                       - 104 ] <<<<SW1SW2<<<<[6A82]
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][emv_app_sel_init                 - 1129] ERR(-1133)
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVLIB][EMV_Process                      - 1293] @@@@STATUS[-1133]@@@@
+E/SZZTEmvKernel-JNI( 2691): EmvCardEventOccured
+W/SzztDebug( 2691): Call SZZTEmvKernelWrapper-SERVER:emvCardEventCallback,cardEvent=-1497438140
+E/[emv core]( 2691): :emvsdk.c-1392 [EMVAPI][emv_process                      - 328 ] ret = -1133
+E/SZZTEmvKernel-JNI( 2691): emvCallback
+W/SzztDebug( 2691): Call SZZTEmvKernelWrapper-SERVER:emvCallback,status=0 retcode=-1133
+E/EmvInterfaceImpl-SDK:(29746): emvCallback
+D/SzztDebug(29746): Call EmvInterfaceImpl-SDK: : postEmvProcessEvent status=0 code=-1133
+E/EmvTest (29746): status:0 retcode:-1133
+I/SzztSystemSdkManager( 3142): disable google play store runnable runing
+D/StatusBar.NetworkController( 2836): refreshViews: Data not connected!! Set no data type icon / Roaming
+V/WLAN_PSA(  282): NL MSG, len[4017], NL type[0x1C] WNI type[0x5900] len[39183]
+V/WLAN_PSA(  282): NL MSG, PID: 282

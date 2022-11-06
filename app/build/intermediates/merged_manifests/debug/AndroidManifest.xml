@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.zt.pos"
+    android:versionCode="1"
+    android:versionName="V1.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.IDC" />
+    <uses-permission android:name="android.permission.ACCESS_CPOSSYSTEM" />
+    <uses-permission android:name="android.permission.ACCESS_HWSECURITYMANAGER" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORKMANAGER" />
+    <uses-permission android:name="android.permission.CLOUDPOS_SHUTDOWN" />
+    <uses-permission android:name="android.permission.CLOUDPOS_SLEEP" />
+    <uses-permission android:name="android.permission.CLOUDPOS_INSTALL_SILENCE" />
+    <uses-permission android:name="android.permission.CLOUDPOS_UNINSTALL_SILENCE" />
+    <uses-permission android:name="android.permission.CLOUDPOS_REBOOT" />
+    <uses-permission android:name="android.permission.CLOUDPOS_SYSTEM_DISABLE_HARDWARE" />
+    <uses-permission android:name="android.permission.ADMIN_PWD_MODIFY" />
+    <uses-permission android:name="android.permission.ADMIN_PWD_RESET" />
+    <uses-permission android:name="android.permission.ADMIN_PWD" />
+    <uses-permission android:name="android.permission.CLOUDPOS_SYSTEM_SETTIME" />
+    <uses-permission android:name="android.permission.CLOUDPOS_SYSTEM_GETCPOSDEVICEINFO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WIZARPOS_SAFE_MODULE_READONLY" />
+    <uses-permission android:name="android.permission.CLOUDPOS_SAFE_MODULE_READONLY" />
+    <uses-permission android:name="android.permission.CLOUDPOS_MSR" />
+    <uses-permission android:name="android.permission.CLOUDPOS_PRINTER" />
+    <uses-permission android:name="android.permission.CLOUDPOS_CONTACTLESS_CARD" />
+    <uses-permission android:name="android.permission.CLOUDPOS_SMARTCARD" />
+    <uses-permission android:name="android.permission.CLOUDPOS_SERIAL" />
+    <uses-permission android:name="android.permission.CLOUDPOS_PIN_GET_PIN_BLOCK" />
+    <uses-permission android:name="android.permission.CLOUDPOS_PIN_MAC" />
+    <uses-permission android:name="android.permission.CLOUDPOS_PIN_ENCRYPT_DATA" />
+    <uses-permission android:name="android.permission.CLOUDPOS_PIN_UPDATA_USER_KEY" />
+    <uses-permission android:name="android.permission.CLOUDPOS_PIN_UPDATE_MASTER_KEY" />
+    <uses-permission android:name="android.permission.CLOUDPOS_PIN_UPDATE_USER_KEY" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CLOUDPOS_CUSTOMER_DISPLAY" />
+    <uses-permission android:name="android.permission.WIZARPOS_CUSTOMER_DISPLAY" />
+    <uses-permission android:name="android.permission.KOOLCLOUD_CUSTOMER_DISPLAY" />
+    <uses-permission android:name="android.permission.CLOUDPOS_BARCODE" />
+    <uses-permission android:name="android.permission.CLOUDPOS_IDCARD" />
+    <uses-permission android:name="android.permission.CLOUDPOS_GET_DEVICE_INFO" />
+
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.screen.landscape"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+
+    <application
+        android:name="cn.zt.pos.MainApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/app_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/CashierBaseTheme" >
+
+        <!-- android:name="cn.zt.pos.NewMainActivity" -->
+
+        <activity
+            android:name="cn.zt.pos.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="cn.zt.pos.NewMainActivity" />
+        <!-- <activity android:name="cn.zt.pos.test.CardActivity" /> -->
+        <activity android:name="cn.zt.pos.test.PinPadActivity" />
+        <activity android:name="cn.zt.pos.test.PrinterActivity" />
+        <!-- <activity android:name="cn.zt.pos.test.IDCActivity" /> -->
+        <activity android:name="cn.zt.pos.test.EMVActivity" />
+        <!-- <activity android:name="cn.zt.pos.test.D5000Activity" /> -->
+        <!-- <activity android:name="cn.zt.pos.test.MK21Activity" /> -->
+        <!-- <activity android:name="cn.zt.pos.test.ZT566Activity" /> -->
+        <activity android:name="cn.zt.pos.test.ScanActivity" />
+        <activity android:name="cn.zt.pos.login.LoginActivity" />
+        <!-- <activity android:name=".login.LoginActivity"/> -->
+        <!--
+        <activity
+            android:name="cn.zt.pos.MainActivity"
+            android:label="@string/title_activity_new_main" >
+        </activity>
+        -->
+        <!--
+        <activity
+            android:name="cn.zt.pos.test.AllCardActivity"
+            android:label="@string/title_activity_all_card" >
+        </activity>
+        -->
+        <activity
+            android:name="cn.zt.pos.test.ReadCardActivity"
+            android:label="@string/title_activity_read_card" >
+        </activity>
+        <activity
+            android:name="cn.zt.pos.test.MagCardActivity"
+            android:label="@string/test_magstripecardreader" >
+        </activity>
+        <activity
+            android:name="cn.zt.pos.test.PsamCardActivity"
+            android:label="@string/test_psamcardreader" />
+        <activity
+            android:name="cn.zt.pos.test.ICCardActivity"
+            android:label="@string/test_smartcardreader" >
+        </activity>
+        <activity
+            android:name="cn.zt.pos.test.RFCardActivity"
+            android:label="@string/test_contacltesscardreader" >
+        </activity>
+        <activity android:name="cn.zt.testfile.MainActivity" />
+        <activity android:name="cn.zt.testfile.CardActivity" />
+        <activity android:name="cn.zt.pos.swapcard.SwapMsgCardActivity" />
+        <activity android:name="cn.zt.successActivity.SuccessActivity" />
+        <!--
+        <activity
+            android:name="cn.zt.pos.test.IDCardActivity"
+            android:label="@string/test_idcard" >
+        </activity>
+        -->
+        <!--
+        <activity
+            android:name="cn.zt.pos.test.SerialPortActivity"
+            android:label="@string/test_serialport" >
+        </activity>
+        -->
+        <activity
+            android:name="cn.zt.pos.test.SystemManagerActivity"
+            android:label="@string/test_systemmanager" >
+        </activity>
+        <activity android:name="cn.zt.pos.cashinput.CashInputActivity" />
+        <activity android:name="cn.zt.upi.GenerateUPIQRActivity" />
+        <activity android:name="cn.zt.billpay.BillPayActivity" />
+        <activity android:name="cn.zt.billpay.BillPaymentActivity" />
+        <activity android:name="cn.zt.billpay.phone.PhonePayActivity" />
+
+        <service android:name="cn.zt.pos.activityDailog.SalesService" />
+
+        <!--
+          <activity
+              android:name="cn.zt.pos.test.HWsecurityManagerActivity"
+              android:label="@string/test_hwsecurity" >
+          </activity>
+        -->
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:clearTaskOnLaunch="true"
+            android:screenOrientation="sensorLandscape"
+            android:stateNotNeeded="true"
+            android:theme="@style/zxing_CaptureTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+    </application>
+
+</manifest>

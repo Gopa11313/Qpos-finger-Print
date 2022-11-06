@@ -1,0 +1,346 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cn.zt.pos"
+4    android:versionCode="1"
+5    android:versionName="V1.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+11-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:6:5-73
+11-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:6:22-70
+12    <uses-permission android:name="android.permission.IDC" />
+12-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:7:5-62
+12-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:7:22-59
+13    <uses-permission android:name="android.permission.ACCESS_CPOSSYSTEM" />
+13-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:8:5-76
+13-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:8:22-73
+14    <uses-permission android:name="android.permission.ACCESS_HWSECURITYMANAGER" />
+14-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:9:5-83
+14-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:9:22-80
+15    <uses-permission android:name="android.permission.ACCESS_NETWORKMANAGER" />
+15-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:10:5-80
+15-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.CLOUDPOS_SHUTDOWN" />
+16-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:11:5-76
+16-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:11:22-73
+17    <uses-permission android:name="android.permission.CLOUDPOS_SLEEP" />
+17-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:12:5-73
+17-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:12:22-70
+18    <uses-permission android:name="android.permission.CLOUDPOS_INSTALL_SILENCE" />
+18-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:13:5-83
+18-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:13:22-80
+19    <uses-permission android:name="android.permission.CLOUDPOS_UNINSTALL_SILENCE" />
+19-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:14:5-85
+19-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:14:22-82
+20    <uses-permission android:name="android.permission.CLOUDPOS_REBOOT" />
+20-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:15:5-74
+20-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:15:22-71
+21    <uses-permission android:name="android.permission.CLOUDPOS_SYSTEM_DISABLE_HARDWARE" />
+21-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:16:5-91
+21-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:16:22-88
+22    <uses-permission android:name="android.permission.ADMIN_PWD_MODIFY" />
+22-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:17:5-75
+22-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:17:22-72
+23    <uses-permission android:name="android.permission.ADMIN_PWD_RESET" />
+23-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:18:5-74
+23-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:18:22-71
+24    <uses-permission android:name="android.permission.ADMIN_PWD" />
+24-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:19:5-68
+24-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:19:22-65
+25    <uses-permission android:name="android.permission.CLOUDPOS_SYSTEM_SETTIME" />
+25-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:20:5-82
+25-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:20:22-79
+26    <uses-permission android:name="android.permission.CLOUDPOS_SYSTEM_GETCPOSDEVICEINFO" />
+26-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:21:5-92
+26-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:21:22-89
+27    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+27-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:22:5-81
+27-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:22:22-78
+28    <uses-permission android:name="android.permission.INTERNET" />
+28-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:23:5-67
+28-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:23:22-64
+29    <uses-permission android:name="android.permission.WIZARPOS_SAFE_MODULE_READONLY" />
+29-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:24:5-88
+29-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:24:22-85
+30    <uses-permission android:name="android.permission.CLOUDPOS_SAFE_MODULE_READONLY" />
+30-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:25:5-88
+30-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:25:22-85
+31    <uses-permission android:name="android.permission.CLOUDPOS_MSR" />
+31-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:26:5-71
+31-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:26:22-68
+32    <uses-permission android:name="android.permission.CLOUDPOS_PRINTER" />
+32-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:27:5-75
+32-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:27:22-72
+33    <uses-permission android:name="android.permission.CLOUDPOS_CONTACTLESS_CARD" />
+33-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:28:5-84
+33-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:28:22-81
+34    <uses-permission android:name="android.permission.CLOUDPOS_SMARTCARD" />
+34-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:29:5-77
+34-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:29:22-74
+35    <uses-permission android:name="android.permission.CLOUDPOS_SERIAL" />
+35-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:30:5-74
+35-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:30:22-71
+36    <uses-permission android:name="android.permission.CLOUDPOS_PIN_GET_PIN_BLOCK" />
+36-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:31:5-85
+36-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:31:22-82
+37    <uses-permission android:name="android.permission.CLOUDPOS_PIN_MAC" />
+37-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:32:5-75
+37-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:32:22-72
+38    <uses-permission android:name="android.permission.CLOUDPOS_PIN_ENCRYPT_DATA" />
+38-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:33:5-84
+38-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:33:22-81
+39    <uses-permission android:name="android.permission.CLOUDPOS_PIN_UPDATA_USER_KEY" />
+39-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:34:5-87
+39-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:34:22-84
+40    <uses-permission android:name="android.permission.CLOUDPOS_PIN_UPDATE_MASTER_KEY" />
+40-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:35:5-89
+40-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:35:22-86
+41    <uses-permission android:name="android.permission.CLOUDPOS_PIN_UPDATE_USER_KEY" />
+41-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:36:5-87
+41-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:36:22-84
+42    <uses-permission android:name="android.permission.CAMERA" />
+42-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:37:5-65
+42-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:37:22-62
+43    <uses-permission android:name="android.permission.FLASHLIGHT" />
+43-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:38:5-69
+43-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:38:22-66
+44
+45    <uses-feature android:name="android.hardware.camera" />
+45-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:39:5-60
+45-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:39:19-57
+46    <uses-feature android:name="android.hardware.camera.autofocus" />
+46-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:40:5-70
+46-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:40:19-67
+47
+48    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+48-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:41:5-75
+48-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:41:22-72
+49    <uses-permission android:name="android.permission.CLOUDPOS_CUSTOMER_DISPLAY" />
+49-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:42:5-84
+49-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:42:22-81
+50    <uses-permission android:name="android.permission.WIZARPOS_CUSTOMER_DISPLAY" />
+50-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:43:5-84
+50-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:43:22-81
+51    <uses-permission android:name="android.permission.KOOLCLOUD_CUSTOMER_DISPLAY" />
+51-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:44:5-85
+51-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:44:22-82
+52    <uses-permission android:name="android.permission.CLOUDPOS_BARCODE" />
+52-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:45:5-75
+52-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:45:22-72
+53    <uses-permission android:name="android.permission.CLOUDPOS_IDCARD" />
+53-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:46:2-71
+53-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:46:19-68
+54    <uses-permission android:name="android.permission.CLOUDPOS_GET_DEVICE_INFO" />
+54-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:47:2-80
+54-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:47:19-77
+55
+56    <uses-feature
+56-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:27:5-29:36
+57        android:name="android.hardware.camera.front"
+57-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:28:9-53
+58        android:required="false" />
+58-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:29:9-33
+59    <uses-feature
+59-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:35:5-37:36
+60        android:name="android.hardware.camera.flash"
+60-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:36:9-53
+61        android:required="false" />
+61-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:37:9-33
+62    <uses-feature
+62-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:38:5-40:36
+63        android:name="android.hardware.screen.landscape"
+63-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:39:9-57
+64        android:required="false" />
+64-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:40:9-33
+65    <uses-feature
+65-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:41:5-43:36
+66        android:name="android.hardware.wifi"
+66-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:42:9-45
+67        android:required="false" />
+67-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:43:9-33
+68
+69    <application
+69-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:48:5-131:19
+70        android:name="cn.zt.pos.MainApplication"
+70-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:49:9-49
+71        android:allowBackup="true"
+71-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:50:9-35
+72        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+72-->[androidx.core:core:1.3.0-alpha02] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9c3d9da8f020eac0ab3f7cc3d11178ef/core-1.3.0-alpha02/AndroidManifest.xml:24:18-86
+73        android:debuggable="true"
+74        android:icon="@drawable/app_launcher"
+74-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:51:9-46
+75        android:label="@string/app_name"
+75-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:52:9-41
+76        android:testOnly="true"
+77        android:theme="@style/CashierBaseTheme" >
+77-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:53:9-48
+78
+79        <!-- android:name="cn.zt.pos.NewMainActivity" -->
+80
+81        <activity
+81-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:57:9-64:20
+82            android:name="cn.zt.pos.MainActivity"
+82-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:58:13-41
+83            android:label="@string/app_name" >
+83-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:59:13-45
+84            <intent-filter>
+84-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:60:13-63:29
+85                <action android:name="android.intent.action.MAIN" />
+85-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:61:17-69
+85-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:61:25-66
+86
+87                <category android:name="android.intent.category.LAUNCHER" />
+87-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:62:17-77
+87-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:62:27-74
+88            </intent-filter>
+89        </activity>
+90        <activity android:name="cn.zt.pos.NewMainActivity" />
+90-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:65:9-52
+90-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:65:19-50
+91        <!-- <activity android:name="cn.zt.pos.test.CardActivity" /> -->
+92        <activity android:name="cn.zt.pos.test.PinPadActivity" />
+92-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:67:9-66
+92-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:67:19-63
+93        <activity android:name="cn.zt.pos.test.PrinterActivity" />
+93-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:68:9-67
+93-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:68:19-64
+94        <!-- <activity android:name="cn.zt.pos.test.IDCActivity" /> -->
+95        <activity android:name="cn.zt.pos.test.EMVActivity" />
+95-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:70:9-63
+95-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:70:19-60
+96        <!-- <activity android:name="cn.zt.pos.test.D5000Activity" /> -->
+97        <!-- <activity android:name="cn.zt.pos.test.MK21Activity" /> -->
+98        <!-- <activity android:name="cn.zt.pos.test.ZT566Activity" /> -->
+99        <activity android:name="cn.zt.pos.test.ScanActivity" />
+99-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:74:9-64
+99-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:74:19-61
+100        <activity android:name="cn.zt.pos.login.LoginActivity" />
+100-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:75:9-56
+100-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:75:19-54
+101        <!-- <activity android:name=".login.LoginActivity"/> -->
+102        <!--
+103        <activity
+104            android:name="cn.zt.pos.MainActivity"
+105            android:label="@string/title_activity_new_main" >
+106        </activity>
+107        -->
+108        <!--
+109        <activity
+110            android:name="cn.zt.pos.test.AllCardActivity"
+111            android:label="@string/title_activity_all_card" >
+112        </activity>
+113        -->
+114        <activity
+114-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:85:9-88:20
+115            android:name="cn.zt.pos.test.ReadCardActivity"
+115-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:86:13-59
+116            android:label="@string/title_activity_read_card" >
+116-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:87:13-61
+117        </activity>
+118        <activity
+118-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:89:9-92:20
+119            android:name="cn.zt.pos.test.MagCardActivity"
+119-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:90:13-58
+120            android:label="@string/test_magstripecardreader" >
+120-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:91:13-61
+121        </activity>
+122        <activity
+122-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:93:10-95:59
+123            android:name="cn.zt.pos.test.PsamCardActivity"
+123-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:93:20-66
+124            android:label="@string/test_psamcardreader" />
+124-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:95:13-56
+125        <activity
+125-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:96:9-99:20
+126            android:name="cn.zt.pos.test.ICCardActivity"
+126-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:97:13-57
+127            android:label="@string/test_smartcardreader" >
+127-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:98:13-57
+128        </activity>
+129        <activity
+129-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:100:9-103:20
+130            android:name="cn.zt.pos.test.RFCardActivity"
+130-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:101:13-57
+131            android:label="@string/test_contacltesscardreader" >
+131-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:102:13-63
+132        </activity>
+133        <activity android:name="cn.zt.testfile.MainActivity" />
+133-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:104:9-63
+133-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:104:19-61
+134        <activity android:name="cn.zt.testfile.CardActivity" />
+134-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:105:9-63
+134-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:105:19-61
+135        <activity android:name="cn.zt.pos.swapcard.SwapMsgCardActivity" />
+135-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:106:9-65
+135-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:106:19-63
+136        <activity android:name="cn.zt.successActivity.SuccessActivity" />
+136-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:107:9-73
+136-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:107:19-71
+137        <!--
+138        <activity
+139            android:name="cn.zt.pos.test.IDCardActivity"
+140            android:label="@string/test_idcard" >
+141        </activity>
+142        -->
+143        <!--
+144        <activity
+145            android:name="cn.zt.pos.test.SerialPortActivity"
+146            android:label="@string/test_serialport" >
+147        </activity>
+148        -->
+149        <activity
+149-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:116:9-119:20
+150            android:name="cn.zt.pos.test.SystemManagerActivity"
+150-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:117:13-64
+151            android:label="@string/test_systemmanager" >
+151-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:118:13-55
+152        </activity>
+153        <activity android:name="cn.zt.pos.cashinput.CashInputActivity" />
+153-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:120:9-64
+153-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:120:19-62
+154        <activity android:name="cn.zt.upi.GenerateUPIQRActivity" />
+154-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:121:9-67
+154-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:121:19-65
+155        <activity android:name="cn.zt.billpay.BillPayActivity" />
+155-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:122:9-65
+155-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:122:19-63
+156        <activity android:name="cn.zt.billpay.BillPaymentActivity" />
+156-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:123:9-69
+156-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:123:19-67
+157        <activity android:name="cn.zt.billpay.phone.PhonePayActivity" />
+157-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:124:9-72
+157-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:124:19-70
+158
+159        <service android:name="cn.zt.pos.activityDailog.SalesService" />
+159-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:125:9-64
+159-->/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:125:18-61
+160
+161        <!--
+162          <activity
+163              android:name="cn.zt.pos.test.HWsecurityManagerActivity"
+164              android:label="@string/test_hwsecurity" >
+165          </activity>
+166        -->
+167        <activity
+167-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:46:9-52:63
+168            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+168-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:47:13-74
+169            android:clearTaskOnLaunch="true"
+169-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:48:13-45
+170            android:screenOrientation="sensorLandscape"
+170-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:49:13-56
+171            android:stateNotNeeded="true"
+171-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:50:13-42
+172            android:theme="@style/zxing_CaptureTheme"
+172-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:51:13-54
+173            android:windowSoftInputMode="stateAlwaysHidden" />
+173-->[com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:52:13-60
+174    </application>
+175
+176</manifest>

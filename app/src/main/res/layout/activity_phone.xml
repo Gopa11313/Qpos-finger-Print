@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/top_title_nic"/>
+    <com.google.android.material.tabs.TabLayout
+        app:tabTextColor="@color/background_color_all"
+        android:background="@color/nicPrimary"
+        app:tabSelectedTextColor="@color/white"
+        app:tabIndicatorColor="@color/white"
+        android:id="@+id/phone_tab_layout_design"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager_phone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </androidx.viewpager.widget.ViewPager>
+</LinearLayout>

@@ -1,0 +1,4 @@
+#Mon Mar 23 16:44:24 NPT 2020
+base.0=/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,501 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:2:1-133:12
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:2:1-133:12
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:2:1-133:12
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:2:1-133:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/96a74397ef92494db228d7cf06cc6e9f/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.material:material:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5c06b4c920bade8b263672a626e753be/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5988781b109aa2e81ee2deed8375ae92/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0-alpha02] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5d9e10228950b000fec4044e02b96aa4/jetified-core-ktx-1.3.0-alpha02/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/13ec772b2a549fa2e056ca3685a4747b/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ea5cc53a4c0fcd6f7b577606e0866f8c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/3c7c20feb3b980d9a77692ebe9454bae/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/f24d20cba64d2e369ac3133f223f08fb/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/2b728301d77254c90b065a7562075b49/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/23e56bf4112e29058c6bdbb998741be3/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/cfd36d373bdd98f673d73f1567426fdc/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/0794bcf9945539c65bda912d2756d9e0/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/01aff950c9c0ff85291149845ccae350/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9b4bd89cc4df75282110b16ba7443912/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/cf9a3c4239bbce36276eb74597875761/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ca5a9502cec0e083550aa68eca95ec74/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/04c94a1e7cecc3639be07ee7f25b855e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/f30bb8e1a65b3200a5c6bfc99cf75072/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/4bf87db73252c50799dd4779e7584e6b/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9185af937948e70e6273b8b7c146a0fd/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/81b0807f7773a49fb780228f6df8df22/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/3195c467cfaa694381d129a12a64f370/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ecffca00653532609abe88e9789dadff/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0-alpha02] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9c3d9da8f020eac0ab3f7cc3d11178ef/core-1.3.0-alpha02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/2b6c40ebf3a7527b5521abceeab31967/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ef8209598623eddd7fbffdae67b9c452/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/44f5de66e7b03ecbd5e6c3b2b34a75b7/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/3d9224abbe3544e52b48ba24015a43aa/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/7f965f507d38b4c2f90b65950242b04b/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/c7f0935e7d55a72aff026eb580088845/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/433b8fba667129f84d564b9e3aaa0ddd/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/d9d950513c2b90d5b5a1cd36e8e2141d/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/8456620f0bc752195c9a1b00fa0ee35b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/d1534bc0e3871862af150714bf66906a/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/2d29ced361eea5fffbed9fb556d155f6/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/7b6a609d802835fa1dbcb0f2ef1fd224/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/32cfe830593faf8eb29c36fbfd3bcefd/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:2:1-133:12
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:2:1-133:12
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:2:1-133:12
+	package
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:3:5-24
+		INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:5:5-33
+		INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:6:22-70
+uses-permission#android.permission.IDC
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:7:5-62
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:7:22-59
+uses-permission#android.permission.ACCESS_CPOSSYSTEM
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_HWSECURITYMANAGER
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:9:5-83
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:9:22-80
+uses-permission#android.permission.ACCESS_NETWORKMANAGER
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.CLOUDPOS_SHUTDOWN
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CLOUDPOS_SLEEP
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.CLOUDPOS_INSTALL_SILENCE
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:13:22-80
+uses-permission#android.permission.CLOUDPOS_UNINSTALL_SILENCE
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:14:5-85
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:14:22-82
+uses-permission#android.permission.CLOUDPOS_REBOOT
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:15:22-71
+uses-permission#android.permission.CLOUDPOS_SYSTEM_DISABLE_HARDWARE
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:16:5-91
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:16:22-88
+uses-permission#android.permission.ADMIN_PWD_MODIFY
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:17:22-72
+uses-permission#android.permission.ADMIN_PWD_RESET
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:18:22-71
+uses-permission#android.permission.ADMIN_PWD
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.CLOUDPOS_SYSTEM_SETTIME
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:20:5-82
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:20:22-79
+uses-permission#android.permission.CLOUDPOS_SYSTEM_GETCPOSDEVICEINFO
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:21:5-92
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:21:22-89
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.WIZARPOS_SAFE_MODULE_READONLY
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:24:5-88
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:24:22-85
+uses-permission#android.permission.CLOUDPOS_SAFE_MODULE_READONLY
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:25:5-88
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:25:22-85
+uses-permission#android.permission.CLOUDPOS_MSR
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:26:5-71
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:26:22-68
+uses-permission#android.permission.CLOUDPOS_PRINTER
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:27:22-72
+uses-permission#android.permission.CLOUDPOS_CONTACTLESS_CARD
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:28:5-84
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:28:22-81
+uses-permission#android.permission.CLOUDPOS_SMARTCARD
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:29:5-77
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:29:22-74
+uses-permission#android.permission.CLOUDPOS_SERIAL
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:30:22-71
+uses-permission#android.permission.CLOUDPOS_PIN_GET_PIN_BLOCK
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:31:5-85
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:31:22-82
+uses-permission#android.permission.CLOUDPOS_PIN_MAC
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:32:22-72
+uses-permission#android.permission.CLOUDPOS_PIN_ENCRYPT_DATA
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:33:5-84
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:33:22-81
+uses-permission#android.permission.CLOUDPOS_PIN_UPDATA_USER_KEY
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:34:5-87
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:34:22-84
+uses-permission#android.permission.CLOUDPOS_PIN_UPDATE_MASTER_KEY
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:35:5-89
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:35:22-86
+uses-permission#android.permission.CLOUDPOS_PIN_UPDATE_USER_KEY
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:36:5-87
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:36:22-84
+uses-permission#android.permission.CAMERA
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:37:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:37:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:38:5-69
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:38:22-66
+uses-feature#android.hardware.camera
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:39:5-60
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:24:5-26:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:24:5-26:36
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:39:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:40:5-70
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:32:5-34:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:32:5-34:36
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:40:19-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:41:5-75
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:41:22-72
+uses-permission#android.permission.CLOUDPOS_CUSTOMER_DISPLAY
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:42:5-84
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:42:22-81
+uses-permission#android.permission.WIZARPOS_CUSTOMER_DISPLAY
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:43:5-84
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:43:22-81
+uses-permission#android.permission.KOOLCLOUD_CUSTOMER_DISPLAY
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:44:5-85
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:44:22-82
+uses-permission#android.permission.CLOUDPOS_BARCODE
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:45:5-75
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:45:22-72
+uses-permission#android.permission.CLOUDPOS_IDCARD
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:46:2-71
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:46:19-68
+uses-permission#android.permission.CLOUDPOS_GET_DEVICE_INFO
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:47:2-80
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:47:19-77
+application
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:48:5-131:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:45:5-53:19
+MERGED from [com.google.android.material:material:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5c06b4c920bade8b263672a626e753be/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5c06b4c920bade8b263672a626e753be/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.3.0-alpha02] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9c3d9da8f020eac0ab3f7cc3d11178ef/core-1.3.0-alpha02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-alpha02] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9c3d9da8f020eac0ab3f7cc3d11178ef/core-1.3.0-alpha02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/433b8fba667129f84d564b9e3aaa0ddd/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/433b8fba667129f84d564b9e3aaa0ddd/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-alpha02] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9c3d9da8f020eac0ab3f7cc3d11178ef/core-1.3.0-alpha02/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:52:9-41
+	android:icon
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:51:9-46
+	android:allowBackup
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:50:9-35
+	android:theme
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:53:9-48
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:49:9-49
+activity#cn.zt.pos.MainActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:57:9-64:20
+	android:label
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:58:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:60:13-63:29
+action#android.intent.action.MAIN
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:62:27-74
+activity#cn.zt.pos.NewMainActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:65:9-52
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:65:19-50
+activity#cn.zt.pos.test.PinPadActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:67:9-66
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:67:19-63
+activity#cn.zt.pos.test.PrinterActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:68:9-67
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:68:19-64
+activity#cn.zt.pos.test.EMVActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:70:9-63
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:70:19-60
+activity#cn.zt.pos.test.ScanActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:74:9-64
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:74:19-61
+activity#cn.zt.pos.login.LoginActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:75:9-56
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:75:19-54
+activity#cn.zt.pos.test.ReadCardActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:85:9-88:20
+	android:label
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:87:13-61
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:86:13-59
+activity#cn.zt.pos.test.MagCardActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:89:9-92:20
+	android:label
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:91:13-61
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:90:13-58
+activity#cn.zt.pos.test.PsamCardActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:93:10-95:59
+	android:label
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:95:13-56
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:93:20-66
+activity#cn.zt.pos.test.ICCardActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:96:9-99:20
+	android:label
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:98:13-57
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:97:13-57
+activity#cn.zt.pos.test.RFCardActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:100:9-103:20
+	android:label
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:102:13-63
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:101:13-57
+activity#cn.zt.testfile.MainActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:104:9-63
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:104:19-61
+activity#cn.zt.testfile.CardActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:105:9-63
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:105:19-61
+activity#cn.zt.pos.swapcard.SwapMsgCardActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:106:9-65
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:106:19-63
+activity#cn.zt.successActivity.SuccessActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:107:9-73
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:107:19-71
+activity#cn.zt.pos.test.SystemManagerActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:116:9-119:20
+	android:label
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:118:13-55
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:117:13-64
+activity#cn.zt.pos.cashinput.CashInputActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:120:9-64
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:120:19-62
+activity#cn.zt.upi.GenerateUPIQRActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:121:9-67
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:121:19-65
+activity#cn.zt.billpay.BillPayActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:122:9-65
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:122:19-63
+activity#cn.zt.billpay.BillPaymentActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:123:9-69
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:123:19-67
+activity#cn.zt.billpay.phone.PhonePayActivity
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:124:9-72
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:124:19-70
+service#cn.zt.pos.activityDailog.SalesService
+ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:125:9-64
+	android:name
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml:125:18-61
+uses-sdk
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/96a74397ef92494db228d7cf06cc6e9f/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/96a74397ef92494db228d7cf06cc6e9f/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:19:5-43
+MERGED from [com.google.android.material:material:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5c06b4c920bade8b263672a626e753be/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5c06b4c920bade8b263672a626e753be/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5988781b109aa2e81ee2deed8375ae92/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5988781b109aa2e81ee2deed8375ae92/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0-alpha02] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5d9e10228950b000fec4044e02b96aa4/jetified-core-ktx-1.3.0-alpha02/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0-alpha02] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5d9e10228950b000fec4044e02b96aa4/jetified-core-ktx-1.3.0-alpha02/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/13ec772b2a549fa2e056ca3685a4747b/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/13ec772b2a549fa2e056ca3685a4747b/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ea5cc53a4c0fcd6f7b577606e0866f8c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ea5cc53a4c0fcd6f7b577606e0866f8c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/3c7c20feb3b980d9a77692ebe9454bae/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/3c7c20feb3b980d9a77692ebe9454bae/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/f24d20cba64d2e369ac3133f223f08fb/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/f24d20cba64d2e369ac3133f223f08fb/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/2b728301d77254c90b065a7562075b49/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/2b728301d77254c90b065a7562075b49/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/23e56bf4112e29058c6bdbb998741be3/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/23e56bf4112e29058c6bdbb998741be3/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/cfd36d373bdd98f673d73f1567426fdc/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/cfd36d373bdd98f673d73f1567426fdc/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/0794bcf9945539c65bda912d2756d9e0/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/0794bcf9945539c65bda912d2756d9e0/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/01aff950c9c0ff85291149845ccae350/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/01aff950c9c0ff85291149845ccae350/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9b4bd89cc4df75282110b16ba7443912/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9b4bd89cc4df75282110b16ba7443912/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/cf9a3c4239bbce36276eb74597875761/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/cf9a3c4239bbce36276eb74597875761/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ca5a9502cec0e083550aa68eca95ec74/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ca5a9502cec0e083550aa68eca95ec74/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/04c94a1e7cecc3639be07ee7f25b855e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/04c94a1e7cecc3639be07ee7f25b855e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/f30bb8e1a65b3200a5c6bfc99cf75072/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/f30bb8e1a65b3200a5c6bfc99cf75072/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/4bf87db73252c50799dd4779e7584e6b/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/4bf87db73252c50799dd4779e7584e6b/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9185af937948e70e6273b8b7c146a0fd/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9185af937948e70e6273b8b7c146a0fd/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/81b0807f7773a49fb780228f6df8df22/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/81b0807f7773a49fb780228f6df8df22/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/3195c467cfaa694381d129a12a64f370/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/3195c467cfaa694381d129a12a64f370/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ecffca00653532609abe88e9789dadff/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ecffca00653532609abe88e9789dadff/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha02] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9c3d9da8f020eac0ab3f7cc3d11178ef/core-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha02] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/9c3d9da8f020eac0ab3f7cc3d11178ef/core-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/2b6c40ebf3a7527b5521abceeab31967/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/2b6c40ebf3a7527b5521abceeab31967/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ef8209598623eddd7fbffdae67b9c452/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/ef8209598623eddd7fbffdae67b9c452/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/44f5de66e7b03ecbd5e6c3b2b34a75b7/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/44f5de66e7b03ecbd5e6c3b2b34a75b7/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/3d9224abbe3544e52b48ba24015a43aa/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/3d9224abbe3544e52b48ba24015a43aa/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/7f965f507d38b4c2f90b65950242b04b/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/7f965f507d38b4c2f90b65950242b04b/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/c7f0935e7d55a72aff026eb580088845/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/c7f0935e7d55a72aff026eb580088845/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/433b8fba667129f84d564b9e3aaa0ddd/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/433b8fba667129f84d564b9e3aaa0ddd/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/d9d950513c2b90d5b5a1cd36e8e2141d/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/d9d950513c2b90d5b5a1cd36e8e2141d/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/8456620f0bc752195c9a1b00fa0ee35b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/8456620f0bc752195c9a1b00fa0ee35b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/d1534bc0e3871862af150714bf66906a/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/d1534bc0e3871862af150714bf66906a/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/2d29ced361eea5fffbed9fb556d155f6/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/2d29ced361eea5fffbed9fb556d155f6/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/7b6a609d802835fa1dbcb0f2ef1fd224/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/7b6a609d802835fa1dbcb0f2ef1fd224/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/32cfe830593faf8eb29c36fbfd3bcefd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/32cfe830593faf8eb29c36fbfd3bcefd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+		ADDED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/deadlydragger/.gradle/caches/transforms-2/files-2.1/987c45bc9a277436a2159aa3b1b368b1/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:47:13-74

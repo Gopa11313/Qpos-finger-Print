@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test">
+        <item>磁条卡刷卡测试</item>
+        <item>非接卡拍卡测试</item>
+        <item>IC卡插卡测试</item>
+        <item>密码键盘（外置）测试</item>
+        <item>打印机（内置）打印测试</item>
+        <item>EMV交易流程测试</item>
+        <item>摄像头扫码</item>
+        <item>退出自检测试应用</item>
+    </string-array>
+</resources>

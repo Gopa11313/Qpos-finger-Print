@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_tv.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/tv.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_test_activity.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/test_activity.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_selftest_affirm.wav.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/selftest_affirm.wav"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_selector_btn_num_input.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/selector_btn_num_input.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_water.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/water.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_progress_validating.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/progress_validating.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_top_title_nic.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/top_title_nic.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_btn_style.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/btn_style.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_txtcursor.webp.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/txtcursor.webp"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/menu_all_card.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/menu/all_card.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_new_main.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_new_main.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_dashboard_gradient.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/dashboard_gradient.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_circle_preauth.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/circle_preauth.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_ic_card_to_pay.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/ic_card_to_pay.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_qr_code.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/ic_qr_code.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_err.wav.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/err.wav"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_notification_background_nic.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/notification_background_nic.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_emv.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_emv.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_rectangular_corner.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/rectangular_corner.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_progress.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/progress.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_ic_back.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/ic_back.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_qr_code.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-mdpi/ic_qr_code.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_sucess.wav.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/sucess.wav"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_utility.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_utility.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_a_side.jpg.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/a_side.jpg"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_params.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/params"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_nic_asia_bank_logo.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-hdpi/ic_nic_asia_bank_logo.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_notification_background.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/notification_background.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_smart_cell.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/smart_cell.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_mobile_phone.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/mobile_phone.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_qr_code.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-hdpi/ic_qr_code.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_nea.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/nea.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_nct_logo.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/nct_logo.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_sx.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/sx.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_beep.mp3.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/beep.mp3"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_app_test.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/app_test"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_phone.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_phone.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_circle_history.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/circle_history.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_new_activity_main.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/new_activity_main.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_id_card.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_id_card.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cantactless.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/cantactless.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_ic_transfer_failure.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/ic_transfer_failure.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_pre_auth.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/pre_auth.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_background_round.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/background_round.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_utl.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/utl.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_bg.webp.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/bg.webp"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_progress_layout.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/progress_layout.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_cashier_input_money.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_cashier_input_money.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_history_icon.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/history_icon.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_bill_pay_corner.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/bill_pay_corner.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_circle_refund.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/circle_refund.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_sample.webp.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/sample.webp"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_btn_round_solid_blue_2.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/btn_round_solid_blue_2.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_delete.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/delete.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_shape.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/shape.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_pinpad.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_pinpad.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/menu_read_card.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/menu/read_card.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_payment.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_payment.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_serial.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_serial.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_hw_security.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_hw_security.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_success_dialog.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/success_dialog.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_void_icon.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/void_icon.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_swap_card.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_swap_card.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cantact.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/cantact.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_btnstyle.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/btnstyle.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_line_fine.webp.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/line_fine.webp"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_ic_qr_pay.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/ic_qr_pay.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_qr_code.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xhdpi/ic_qr_code.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_background_editext.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/background_editext.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_round_topuup_selected.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/round_topuup_selected.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_qpay.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/qpay.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_nic_asia_bank_logo.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/nic_asia_bank_logo.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_print.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/print.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_nic_asia_bank_logo.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xhdpi/ic_nic_asia_bank_logo.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_params_ms.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/params_ms"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_side.jpg.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/side.jpg"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_icon_pay_success.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/icon_pay_success.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_dailog_validating.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/dailog_validating.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_circle_sale.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/circle_sale.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_ic_card.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_ic_card.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_mag.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/mag.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_top_title.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/top_title.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_nic_asia_bank_logo.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-mdpi/ic_nic_asia_bank_logo.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_failure_dialog.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/failure_dialog.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/anim_anmitation.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/anim/anmitation.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_idc.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_idc.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_custum_dialog_cornet.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/custum_dialog_cornet.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_custum_dialog_cornet_top.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/custum_dialog_cornet_top.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/anim_cycle_interpolator.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/anim/cycle_interpolator.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_circle_auth_com.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/circle_auth_com.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_qr_upi_main.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/qr_upi_main.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_ic_qr_code.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/ic_qr_code.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_exit.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/exit.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_szzt.bmp.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/szzt.bmp"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_emv.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/emv.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_success.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_success.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_fragment_topup.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/fragment_topup.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_progress_bar_drawable.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/progress_bar_drawable.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_recharge_fragment.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/recharge_fragment.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_system.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_system.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_isp.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/isp.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_round_topuup_nonselected.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/round_topuup_nonselected.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_card.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_card.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_circle_void.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/circle_void.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_alert_tone.wav.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/alert_tone.wav"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_refund_qr.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_refund_qr.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_auth_com_icon.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/auth_com_icon.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_shape_input.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/shape_input.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_btn_round_solid_green.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/btn_round_solid_green.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_editext.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/editext.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_custum_dialog_cornet_validation.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/custum_dialog_cornet_validation.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/menu_new_main.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/menu/new_main.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_processlayout.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/processlayout.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_item_carrier_spineer.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/item_carrier_spineer.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_refund.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/refund.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_app_launcher.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/app_launcher.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_card.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/card.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_scan.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_scan.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_rectangle_white_corner.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/rectangle_white_corner.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_pinpad.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/pinpad.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_btn_round_solid_blue.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/btn_round_solid_blue.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_dialog_success.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/dialog_success.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_aid_development.json.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/aid_development.json"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_qr_code.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxxhdpi/ic_qr_code.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_ic_transfer_success.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/ic_transfer_success.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_printer.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_printer.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_capk_development.json.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/capk_development.json"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_uoi_icon.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/uoi_icon.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_luncher.jpg.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/luncher.jpg"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_btn_styleblue.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/btn_styleblue.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_plane.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/plane.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_line_bold.webp.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/line_bold.webp"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_corner_bill_pay.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/corner_bill_pay.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_sale_icon.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/sale_icon.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_nic_asia_bank_logo.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxhdpi/ic_nic_asia_bank_logo.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_framelayout_border.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/framelayout_border.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_plsswca.wav.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/plsswca.wav"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/layout_activity_psamcard.xml.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/layout/activity_psamcard.xml"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/raw_success_tone.wav.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/raw/success_tone.wav"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_nic_asia_bank_logo.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable-xxxhdpi/ic_nic_asia_bank_logo.png"
+    },
+    {
+        "merged": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/res/merged/debug/drawable_notifications_icon.png.flat",
+        "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/drawable/notifications_icon.png"
+    }
+]

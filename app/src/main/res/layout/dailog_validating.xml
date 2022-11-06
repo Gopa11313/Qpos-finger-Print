@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:background="@drawable/custum_dialog_cornet"
+        android:gravity="center"
+        android:minWidth="100dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:background="@drawable/custum_dialog_cornet_validation"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_height="wrap_content">
+
+            <ProgressBar
+                android:indeterminateDrawable="@drawable/progress_validating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_gravity="center"
+                android:indeterminate="true" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/paying_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="Processing"
+            android:textColor="@color/color_primary_text"
+            android:textSize="22sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_marginBottom="20dp"
+            android:text="Please wait while your Transaction is being Processed.."
+            android:textColor="@color/color_secondary_text"
+            android:textSize="14sp" />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

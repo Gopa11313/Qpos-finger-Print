@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/deadlydragger/POS NEW/qpos_finger_print/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/deadlydragger/POS NEW/qpos_finger_print/app/src/main/res/values-port/dimens.xml",
+                    "from": {
+                        "startLines": "3,2,1",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "111,64,17",
+                        "endColumns": "46,45,45",
+                        "endOffsets": "153,105,58"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "111,158,204",
+                        "endColumns": "46,45,45",
+                        "endOffsets": "153,199,245"
+                    }
+                },
+                {
+                    "source": "/home/deadlydragger/.gradle/caches/transforms-2/files-2.1/5988781b109aa2e81ee2deed8375ae92/appcompat-1.1.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

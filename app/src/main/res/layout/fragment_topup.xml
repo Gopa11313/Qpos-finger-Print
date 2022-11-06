@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_view"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/bill_pay_corner"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Mobile Number" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            android:orientation="horizontal">
+            <!--android:drawableLeft="@drawable/ic_action_phone_number"-->
+
+            <EditText
+                android:id="@+id/phone"
+                android:layout_width="0dp"
+                android:layout_height="45dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/background_view"
+                android:hint="@string/phone_hint"
+                android:inputType="phone"
+                android:maxLength="10"
+                android:padding="2dp"
+                android:textColor="@color/color_primary_text"
+                android:textColorHint="@color/color_thirtary_text" />
+
+            <ImageView
+                android:id="@+id/contact_picker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:src="@android:drawable/sym_contact_card" />
+        </LinearLayout>
+        <HorizontalScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:fillViewport="true">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/topupNtc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/size_carrier"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/round_topuup_nonselected"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="NTC"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/minimum_redable" />
+
+                <TextView
+                    android:id="@+id/topupNcell"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/size_carrier"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/round_topuup_nonselected"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="Ncell"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/minimum_redable" />
+
+                <TextView
+                    android:id="@+id/topupSmartcell"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/size_carrier"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/round_topuup_nonselected"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="Smartcell"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/minimum_redable" />
+
+                <TextView
+                    android:id="@+id/ntcPostPaid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/size_carrier"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/round_topuup_nonselected"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="NT Postpaid"
+                    android:textColor="@color/white"
+                    android:gravity="center"
+                    android:textSize="@dimen/minimum_redable" />
+
+                <TextView
+                    android:id="@+id/ntcPSTN"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/size_carrier"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/round_topuup_nonselected"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="NT Landline"
+                    android:textColor="@color/white"
+                    android:gravity="center"
+                    android:textSize="@dimen/minimum_redable" />
+
+                <TextView
+                    android:id="@+id/utl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/size_carrier"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/round_topuup_nonselected"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="UTL"
+                    android:textColor="@color/white"
+                    android:gravity="center"
+                    android:textSize="@dimen/minimum_redable" />
+
+            </LinearLayout>
+        </HorizontalScrollView>
+        <LinearLayout
+            android:id="@+id/amountLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:visibility="gone"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Amount" />
+            <Spinner
+                android:id="@+id/amount"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:inputType="numberDecimal"
+                android:backgroundTint="@color/colorPrimary"/>
+
+        </LinearLayout>
+        <androidx.appcompat.widget.AppCompatButton
+            android:gravity="center"
+            android:id="@+id/confirm"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/corner_bill_pay"
+            android:text="CONFIRM"
+            android:textColor="@color/white" />
+    </LinearLayout>
+</LinearLayout>

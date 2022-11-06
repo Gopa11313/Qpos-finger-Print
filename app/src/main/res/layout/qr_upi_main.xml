@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background_color_all">
+
+    <include layout="@layout/top_title" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="@dimen/margin_ten"
+            android:layout_weight="1"
+            android:background="@drawable/background_round"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Let Customer Scan The Code."
+                android:textColor="@color/color_primary_text"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/iv_qr_code"
+                android:layout_width="210dp"
+                android:layout_height="210dp"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:id="@+id/merch_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="QPOS Test"
+                android:textColor="@color/color_primary_text"
+                android:textSize="22sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="7dp"
+                android:text="Sales Amount"
+                android:textColor="@color/color_thirtary_text"
+                android:textSize="12sp" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="NPR"
+                    android:textSize="18sp"
+                    android:textColor="@color/color_thirtary_text" />
+
+                <TextView
+                    android:id="@+id/edt_amount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0.00"
+                    android:textSize="36sp"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="@color/color_primary_text" />
+                <!-- <EditText
+                     android:layout_marginTop="10dp"
+                     android:id="@+id/edt_amount"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_marginLeft="5dp"
+                     android:background="@color/transparent"
+                     android:imeOptions="actionDone"
+                     android:inputType="number"
+                     android:hint="0.00"
+                     android:textColor="@color/color_primary_text"
+                     android:textColorHint="@color/color_primary_text"
+                     android:textSize="26sp"
+                     />-->
+                <ImageView
+                    android:id="@+id/edit_text"
+                    android:layout_width="20dp"
+                    android:layout_height="10dp"
+                    android:scaleType="fitCenter"
+                    android:visibility="invisible"
+                    android:layout_marginStart="5dp"
+                    android:src="@drawable/editext"
+                    />
+            </LinearLayout>
+            <!--<View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/light_grey"/>-->
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginRight="@dimen/margin_ten"
+            android:layout_marginLeft="@dimen/margin_ten"
+            android:layout_marginBottom="@dimen/margin_ten"
+            android:gravity="center"
+            android:background="@drawable/background_round"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_weight="1"
+                android:src="@drawable/uoi_icon" />
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_weight="1"
+                android:src="@drawable/qpay" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

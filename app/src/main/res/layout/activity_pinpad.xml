@@ -1,0 +1,93 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/device_padding"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical" 
+    tools:context=".PinPadActivity" >
+        <TextView
+            android:id="@+id/pinpad_text"
+            style="@style/txtStyle"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="@dimen/btn_padding"
+            android:layout_weight="8"
+            android:text="@string/test_pinpad" />
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.6" >
+
+            <LinearLayout
+                android:id="@+id/pinpad_layer"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:scrollbars="horizontal" >
+
+                <Button
+                    android:id="@+id/pinpad_open" 
+                    style="@style/btn_list_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_pinpad_open" />
+                <Button
+                    android:id="@+id/pinpad_close"
+                    style="@style/btn_list_style"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="@dimen/btn_padding"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_pinpad_close" />
+                <Button
+                    android:id="@+id/pinpad_loadMasterKey"
+                    style="@style/btn_list_style"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="@dimen/btn_padding"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_pinpad_main_key" />
+                <Button
+                    android:id="@+id/pinpad_updateWorkKey"
+                    style="@style/btn_list_style"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="@dimen/btn_padding"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_pinpad_work_keu" />
+                <Button
+                    android:id="@+id/pinpad_encryptData"
+                    style="@style/btn_list_style"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="@dimen/btn_padding"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_pinpad_encrypt" />
+                <Button
+                    android:id="@+id/pinpad_showText"
+                    style="@style/btn_list_style"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="@dimen/btn_padding"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_pinpad_show_test" />
+                <Button
+                    android:id="@+id/pinpad_clear"
+                    style="@style/btn_list_style"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="@dimen/btn_padding"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btn_pinpad_cal_mac" />
+
+                <Button
+                    android:id="@+id/pinpad_pin"
+                    style="@style/btn_list_style"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="@dimen/btn_padding"
+                    android:layout_height="wrap_content"
+                    android:onClick="cal_pin"
+                    android:text="@string/btn_pinpad_cal_pin" />
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>

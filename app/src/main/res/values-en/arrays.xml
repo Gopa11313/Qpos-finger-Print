@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test">
+        <item>Magnetic stripe card test</item>
+        <item>Contactless card test</item>
+        <item>Intelligent IC card test</item>
+        <item>Password keyboard(outlay) test</item>
+        <item>Printer(inlay) test</item>
+        <item>ID induction test </item>
+        <item>EMV process test</item>
+        <item>D5000 printer(outlay) test</item>
+        <item>MK21 CPU functions test</item>
+        <item>ZT566 password keyboard(inlay) test</item>
+        <item>Exit Test App</item>
+    </string-array>
+</resources>

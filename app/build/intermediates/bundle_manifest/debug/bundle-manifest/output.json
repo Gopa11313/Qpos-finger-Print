@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"V1.0.1","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"cn.zt.pos","split":"","minSdkVersion":"19"}}]

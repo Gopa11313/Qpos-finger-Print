@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ClassicalBlue">#03AEDA</color>
+    <color name="ClassicalYellow">#CDCD00</color>
+    <color name="ClassicalWhite">#FFFFFF</color>
+    <color name="ClassicalBlack">#000000</color>
+    <color name="ClassicalPurse">#BF3EFF</color>
+    <color name="ClassicalLightBlue">#97FFFF</color>
+    <color name="white">#ffffff</color>
+    <color name="textColor">#262525</color>
+    <color name="colorPrimary">#4C7FF7</color>
+    <color name="colorThemeDim">#dfc44eed</color>
+    <color name="colorPrimaryDark">#3F73EC</color>
+    <color name="text_left">#5a6164</color>
+    <color name="allinpay_edit_black">#292929</color>
+    <color name="allinpay_edit_hint">#E4E4E4</color>
+    <color name="allinpay_edit_left_text">#767676</color>
+    <color name="allinpay_text_red">#FF511B</color>
+    <color name="start">#9500bd</color>
+    <color name="end">#e300bb</color>
+    <color name="text_blue">#0185d0</color>
+    <color name="background_color_all">#eef0f1</color>
+    <color name="color_primary_text">#262525</color>
+    <color name="color_secondary_text">#676767</color>
+    <color name="color_thirtary_text">#262525</color>
+    <color name="input_num">#464646</color>
+    <color name="background_view">#e6e1e1</color>
+    <color name="stroke_editext">#1B0505</color>
+
+
+
+    <!--color nic-->
+    <color name="nicPrimary">#ED1C25</color>
+    <color name="nicPrimaryDark">#B80001</color>
+    <color name="shadow">#60b9b7b7</color>
+</resources>

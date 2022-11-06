@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background_color_all">
+    <include layout="@layout/top_title_nic" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:background="@color/nicPrimary">
+                    <TextView
+                        android:id="@+id/balanceWallet"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="Npr. 200.00"
+                        android:textColor="@color/white"
+                        android:textSize="26sp"
+                        android:textStyle="bold" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="WALLET AMOUNT"
+                        android:textColor="@color/white"
+                        android:textSize="14sp"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="2"
+                    android:background="@color/background_color_all">
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:weightSum="3">
+
+                        <LinearLayout
+                            android:id="@+id/phoneBill"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:background="@drawable/rectangle_white_corner"
+                            android:layout_marginLeft="@dimen/tendp"
+                            android:layout_marginTop="@dimen/tendp"
+                            android:orientation="vertical"
+                            >
+                            <ImageView
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:src="@drawable/mobile_phone"
+                                android:layout_marginBottom="@dimen/tendp"/>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/nicPrimary"
+                                android:textStyle="bold"
+                                android:text="PHONE"/>
+                        </LinearLayout>
+
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:background="@drawable/rectangle_white_corner"
+                            android:layout_marginTop="@dimen/tendp"
+                            android:layout_marginLeft="@dimen/tendp"
+                            android:orientation="vertical">
+                            <ImageView
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:src="@drawable/tv"
+                                android:layout_marginBottom="@dimen/tendp"/>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/nicPrimary"
+                                android:textStyle="bold"
+                                android:text="TV "/>
+                        </LinearLayout>
+
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:background="@drawable/rectangle_white_corner"
+                            android:layout_marginTop="@dimen/tendp"
+                            android:layout_marginLeft="@dimen/tendp"
+                            android:layout_marginBottom="@dimen/tendp"
+                            android:orientation="vertical">
+                            <ImageView
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:src="@drawable/isp"
+                                android:layout_marginBottom="@dimen/tendp"/>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/nicPrimary"
+                                android:textStyle="bold"
+                                android:text="INTERNET "/>
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        >
+                        <LinearLayout
+                            android:layout_weight="1"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:weightSum="3">
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:background="@drawable/rectangle_white_corner"
+                                android:layout_marginTop="@dimen/tendp"
+                                android:layout_marginRight="@dimen/tendp"
+                                android:layout_marginLeft="@dimen/tendp"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:layout_width="50dp"
+                                    android:layout_height="50dp"
+                                    android:src="@drawable/nea"
+                                    android:layout_marginBottom="@dimen/tendp"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@color/nicPrimary"
+                                    android:textStyle="bold"
+                                    android:text="NEA "/>
+                            </LinearLayout>
+
+
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:background="@drawable/rectangle_white_corner"
+                                android:layout_marginTop="@dimen/tendp"
+                                android:layout_marginRight="@dimen/tendp"
+                                android:layout_marginLeft="@dimen/tendp"
+                                android:orientation="vertical">
+                                <ImageView
+                                    android:layout_width="50dp"
+                                    android:layout_height="50dp"
+                                    android:src="@drawable/water"
+                                    android:layout_marginBottom="@dimen/tendp"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@color/nicPrimary"
+                                    android:textStyle="bold"
+                                    android:text="WATER "/>
+                            </LinearLayout>
+
+
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:background="@drawable/rectangle_white_corner"
+                                android:layout_marginTop="@dimen/tendp"
+                                android:layout_marginLeft="@dimen/tendp"
+                                android:layout_marginRight="@dimen/tendp"
+                                android:layout_marginBottom="@dimen/tendp"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:layout_width="50dp"
+                                    android:layout_height="50dp"
+                                    android:src="@drawable/plane"
+                                    android:layout_marginBottom="@dimen/tendp"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@color/nicPrimary"
+                                    android:textStyle="bold"
+                                    android:text="FLIGHT "/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+        </FrameLayout>
+
+
+
+
+        <FrameLayout
+            android:id="@+id/idLoading"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center">
+
+            <ProgressBar
+                android:indeterminateDrawable="@drawable/progress_bar_drawable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="25dp"
+                android:layout_gravity="center"
+                android:indeterminate="true" />
+
+        </FrameLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>

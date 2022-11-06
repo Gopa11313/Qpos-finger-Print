@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_color_all"
+    android:orientation="vertical">
+
+    <include layout="@layout/top_title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background_color_all">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="right"
+            android:orientation="horizontal"
+            android:padding="10dip">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="3dp"
+                android:text="रु"
+                android:textColor="@color/allinpay_edit_black"
+                android:textSize="48sp" />
+
+            <TextView
+                android:id="@+id/inputMoneyYuanText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLength="11"
+                android:text="0."
+                android:textColor="@color/allinpay_edit_black"
+                android:textSize="63sp" />
+
+            <TextView
+                android:id="@+id/inputMoneyFenText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLength="2"
+                android:text="00"
+                android:textColor="@color/allinpay_edit_black"
+                android:textSize="36sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView style="@style/DropLineTheme" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background_color_all"
+        android:orientation="vertical"
+        android:weightSum="5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_num1"
+                style="@style/base_num_button"
+                android:layout_marginRight="@dimen/divider_height"
+                android:text="1" />
+
+            <Button
+                android:id="@+id/btn_num2"
+                style="@style/base_num_button"
+                android:layout_marginRight="@dimen/divider_height"
+                android:text="2" />
+
+            <Button
+                android:id="@+id/btn_num3"
+                style="@style/base_num_button"
+                android:text="3" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/divider_height"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_num4"
+                style="@style/base_num_button"
+                android:layout_marginRight="@dimen/divider_height"
+                android:text="4" />
+
+            <Button
+                android:id="@+id/btn_num5"
+                style="@style/base_num_button"
+                android:layout_marginRight="@dimen/divider_height"
+                android:text="5" />
+
+            <Button
+                android:id="@+id/btn_num6"
+                style="@style/base_num_button"
+                android:text="6" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/divider_height"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_num7"
+                style="@style/base_num_button"
+                android:layout_marginRight="@dimen/divider_height"
+                android:text="7" />
+
+            <Button
+                android:id="@+id/btn_num8"
+                style="@style/base_num_button"
+                android:layout_marginRight="@dimen/divider_height"
+                android:text="8" />
+
+            <Button
+                android:id="@+id/btn_num9"
+                style="@style/base_num_button"
+                android:text="9" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/divider_height"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_num00"
+                style="@style/base_num_button"
+                android:layout_marginRight="@dimen/divider_height"
+                android:text="00" />
+
+            <Button
+                android:id="@+id/btn_num0"
+                style="@style/base_num_button"
+                android:layout_marginRight="@dimen/divider_height"
+                android:text="0" />
+
+
+            <ImageView
+                android:id="@+id/btn_num_clear"
+                style="@style/base_num_button"
+                android:scaleType="center"
+                android:src="@drawable/delete"
+                android:tint="@color/colorPrimary" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/divider_height"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:gravity="center">
+
+            <LinearLayout
+                android:id="@+id/qr_pay"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:padding="5dp"
+                    android:src="@drawable/ic_qr_pay" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="QR"
+                    android:textColor="@color/white"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+
+                <Button
+
+                    style="@style/ButtonTheme"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:enabled="true"
+                    android:text="确定"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+
+
+            <View
+                android:id="@+id/view_line"
+                android:layout_width="0.5dp"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:visibility="visible"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:id="@+id/btn_card_confirm"
+                >
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:padding="5dp"
+                    android:src="@drawable/ic_card_to_pay" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="CARD"
+                    android:textColor="@color/white"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+                <!--
+                                <Button
+                                    style="@style/ButtonTheme"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="1"
+                                    android:enabled="true"
+                                    android:text="确定"
+                                    android:visibility="gone" />-->
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+

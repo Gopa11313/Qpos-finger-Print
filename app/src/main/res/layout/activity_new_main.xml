@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/img_touch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/szzt" />
+
+    <LinearLayout
+        android:id="@+id/lin_all"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/lin_citiao"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:background="#6495ED"
+                android:paddingLeft="@dimen/btn_text_padding" >
+
+                <ImageView
+                    android:layout_width="@dimen/img_size"
+                    android:layout_height="@dimen/img_size"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/card" />
+
+                <TextView
+                    android:id="@+id/tv_citiao_test"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    android:text="@string/button_card_read_test"
+                    android:textColor="#fff" />
+            </LinearLayout>
+
+            <LinearLayout
+                 android:id="@+id/lin_psam"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:background="#6495ED"
+                android:paddingLeft="@dimen/btn_text_padding" >
+
+                <ImageView
+                    android:layout_width="@dimen/img_size"
+                    android:layout_height="@dimen/img_size"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/cantact" />
+
+                <TextView
+                    android:id="@+id/tv_psam_test"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    android:text="@string/test_psamcardreader"
+                    android:textColor="#fff" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/lin_cantact"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:paddingLeft="@dimen/btn_text_padding" >
+
+                <ImageView
+                    android:layout_width="@dimen/img_size"
+                    android:layout_height="@dimen/img_size"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/cantact" />
+
+                <TextView
+                    android:id="@+id/tv_cantact_test"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    android:text="@string/test_smartcardreader"
+                    android:textColor="#fff" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lin_cantactless"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:paddingLeft="@dimen/btn_text_padding" >
+
+                <ImageView
+                    android:layout_width="@dimen/img_size"
+                    android:layout_height="@dimen/img_size"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/cantactless" />
+
+                <TextView
+                    android:id="@+id/tv_cantactless_test"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    android:text="@string/test_contacltesscardreader"
+                    android:textColor="#fff" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/lin_pinpad"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/btn_text_padding" >
+
+                <ImageView
+                    android:layout_width="@dimen/img_size"
+                    android:layout_height="@dimen/img_size"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/pinpad" />
+
+                <TextView
+                    android:id="@+id/tv_pinpad_test"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    android:text="@string/button_pinpad_test"
+                    android:textColor="#fff" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lin_printer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/btn_text_padding" >
+
+                <ImageView
+                    android:layout_width="@dimen/img_size"
+                    android:layout_height="@dimen/img_size"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/print" />
+
+                <TextView
+                    android:id="@+id/tv_printer_test"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    android:text="@string/button_printer_test"
+                    android:textColor="#fff" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/lin_emv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:paddingLeft="@dimen/btn_text_padding" >
+
+                <ImageView
+                    android:layout_width="@dimen/img_size"
+                    android:layout_height="@dimen/img_size"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/emv" />
+
+                <TextView
+                    android:id="@+id/tv_emv_test"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    android:text="@string/button_emv_test"
+                    android:textColor="#fff" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lin_camera"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:paddingLeft="@dimen/btn_text_padding" >
+
+                <ImageView
+                    android:layout_width="@dimen/img_size"
+                    android:layout_height="@dimen/img_size"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/sx" />
+
+                <TextView
+                    android:id="@+id/tv_camera_test"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    android:text="@string/button_camera_scan_test"
+                    android:textColor="#fff" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/lin_SystemManager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="@dimen/img_size"
+                    android:layout_height="@dimen/img_size"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/emv" />
+
+                <TextView
+                    android:id="@+id/tv_SystemManager"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    android:text="@string/button_system_test"
+                    android:textColor="#fff" />
+            </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lin_exit"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="@dimen/img_size"
+                android:layout_height="@dimen/img_size"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/exit" />
+
+            <TextView
+                android:id="@+id/tv_exit_test"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:text="@string/button_exit_app"
+                android:textColor="#fff" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

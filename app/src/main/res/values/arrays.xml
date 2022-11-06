@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test">
+        <item>Magnetic stripe card test</item>
+        <item>Contactless card test</item>
+        <item>Intelligent IC card test</item>
+        <item>Password keyboard(outlay) test</item>
+        <item>Printer(inlay) test</item>
+        <item>EMV process test</item>        
+        <item> Scan</item>
+        <item>Exit Test App</item>
+    </string-array>
+    
+    <string-array name="touchConfig">
+        <item>Printer Config</item>
+    </string-array>
+</resources>
